@@ -1,0 +1,30 @@
+# -Pemrograman# Penjumlahan (+)
+a = 10
+b = 5
+hasil_penjumlahan = a + b
+print("Hasil Penjumlahan:", hasil_penjumlahan)  # Output: 15
+
+# Pengurangan (-)
+hasil_pengurangan = a - b
+print("Hasil Pengurangan:", hasil_pengurangan)  # Output: 5
+
+# Perkalian (*)
+hasil_perkalian = a * b
+print("Hasil Perkalian:", hasil_perkalian)  # Output: 50
+
+# Pembagian (/)
+hasil_pembagian = a / b
+print("Hasil Pembagian:", hasil_pembagian)  # Output: 2.0
+
+# Modulo (%)
+hasil_modulo = a % b
+print("Hasil Modulo:", hasil_modulo)  # Output: 0
+
+# Pangkat (**)
+hasil_pangkat = a ** 2
+print("Hasil Pangkat:", hasil_pangkat)  # Output: 100
+
+# Pembagian Bulat (//)
+hasil_bulat = a // b
+print("Hasil Pembagian Bulat:", hasil_bulat)  # Output: 2
+
